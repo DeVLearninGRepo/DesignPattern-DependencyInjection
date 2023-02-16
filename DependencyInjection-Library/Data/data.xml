@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<customers>
+  <customer id="1" name="Mario" surname="Rossi" />
+  <customer id="2" name="Alfredo" surname="Bianchi" />
+  <customer id="3" name="Giovanni" surname="Carasso" />
+  <customer id="4" name="Aldo" surname="Nerone" />
+  <customer id="5" name="Barabba" surname="Verdino" />
+  <customer id="6" name="Emma" surname="Franschi" />
+  <customer id="7" name="Danilo" surname="Rossi" />
+</customers>
